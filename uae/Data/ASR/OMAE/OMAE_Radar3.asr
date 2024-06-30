@@ -1,0 +1,98 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Jeddah ACC:
+ARTCC boundary:Muscat ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:United Arab Emirates ACC:
+ARTCC high boundary:UAE ACC Central:
+ARTCC high boundary:UAE ACC Mike:
+ARTCC high boundary:UAE ACC North:
+ARTCC high boundary:UAE ACC South:
+ARTCC low boundary:Abu Dhabi CTA Central:
+ARTCC low boundary:Abu Dhabi CTA East:
+ARTCC low boundary:Abu Dhabi CTA North:
+ARTCC low boundary:Abu Dhabi CTA West:
+ARTCC low boundary:Dubai CTA Part 1:
+ARTCC low boundary:Dubai CTA Part 10:
+ARTCC low boundary:Dubai CTA Part 11:
+ARTCC low boundary:Dubai CTA Part 12:
+ARTCC low boundary:Dubai CTA Part 2:
+ARTCC low boundary:Dubai CTA Part 3:
+ARTCC low boundary:Dubai CTA Part 4:
+ARTCC low boundary:Dubai CTA Part 5:
+ARTCC low boundary:Dubai CTA Part 6:
+ARTCC low boundary:Dubai CTA Part 7:
+ARTCC low boundary:Dubai CTA Part 8:
+ARTCC low boundary:Dubai CTA Part 9:
+ARTCC low boundary:Fujairah CTA 1:
+ARTCC low boundary:Fujairah CTA 2:
+ARTCC low boundary:Ras Al-Khaimah CTA:
+ARTCC low boundary:Sharjah CTA:
+Free Text:ACCs\Bahrain ACC | OBBB:freetext
+Free Text:ACCs\Bahrain ACC | OBBB:freetext
+Free Text:ACCs\Iran ACC | OIIX:freetext
+Free Text:ACCs\Oman ACC | OOMM:freetext
+Free Text:ACCs\Saudi ACC | OEJD:freetext
+Free Text:ACCs\Saudi ACC | OEJD:freetext
+Free Text:Aerodrome CTRs\AA CTR:freetext
+Free Text:Aerodrome CTRs\AD CTR:freetext
+Free Text:Aerodrome CTRs\AL CTR:freetext
+Free Text:Aerodrome CTRs\DB CTR:freetext
+Free Text:Aerodrome CTRs\FJ CTR:freetext
+Free Text:Aerodrome CTRs\RK CTR:freetext
+Free Text:Aerodrome CTRs\SJ CTR:freetext
+Free Text:Altitude Limits\AA 15-115:freetext
+Free Text:Altitude Limits\AA 15-145:freetext
+Free Text:Altitude Limits\AA 15-145:freetext
+Free Text:Altitude Limits\AL 20-95:freetext
+Free Text:Altitude Limits\AL 20-95:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 25-145:freetext
+Free Text:Altitude Limits\DB 30-145:freetext
+Free Text:Altitude Limits\DB 30-145:freetext
+Free Text:Altitude Limits\DB 45-95:freetext
+Free Text:Altitude Limits\DB 65-145:freetext
+Free Text:Altitude Limits\DBN 85-145:freetext
+Free Text:Altitude Limits\DBS 15-85:freetext
+Free Text:Altitude Limits\FJ 15-95:freetext
+Free Text:Altitude Limits\FJ 15-95:freetext
+Free Text:Altitude Limits\FJ 20-95:freetext
+Free Text:Altitude Limits\FJ 20-95:freetext
+Free Text:Altitude Limits\OMAE 45+:freetext
+Free Text:Altitude Limits\RK 15-65:freetext
+Free Text:Altitude Limits\RK 15-65:freetext
+Geo:Coastline:
+Geo:OMFJ Taxiways:
+SHOWC:1
+SHOWSB:1
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:UAE
+WINDOWAREA:22.330109:50.037289:27.196139:60.128526
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:18
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

@@ -1,0 +1,177 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Jeddah ACC:
+ARTCC boundary:Muscat ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:United Arab Emirates ACC:
+ARTCC high boundary:UAE ACC Central:
+ARTCC high boundary:UAE ACC Mike:
+ARTCC high boundary:UAE ACC North:
+ARTCC high boundary:UAE ACC South:
+ARTCC low boundary:Abu Dhabi CTA Central:
+ARTCC low boundary:Abu Dhabi CTA East:
+ARTCC low boundary:Abu Dhabi CTA North:
+ARTCC low boundary:Abu Dhabi CTA West:
+ARTCC low boundary:Dubai CTA Part 1:
+ARTCC low boundary:Dubai CTA Part 10:
+ARTCC low boundary:Dubai CTA Part 11:
+ARTCC low boundary:Dubai CTA Part 12:
+ARTCC low boundary:Dubai CTA Part 2:
+ARTCC low boundary:Dubai CTA Part 3:
+ARTCC low boundary:Dubai CTA Part 4:
+ARTCC low boundary:Dubai CTA Part 5:
+ARTCC low boundary:Dubai CTA Part 6:
+ARTCC low boundary:Dubai CTA Part 7:
+ARTCC low boundary:Dubai CTA Part 8:
+ARTCC low boundary:Dubai CTA Part 9:
+ARTCC low boundary:Fujairah CTA 1:
+ARTCC low boundary:Fujairah CTA 2:
+ARTCC low boundary:Ras Al-Khaimah CTA:
+ARTCC low boundary:Sharjah CTA:
+Geo:Coastline:
+Geo:OMFJ Taxiways:
+High airways:A791:line
+High airways:B415:line
+High airways:B540:line
+High airways:G462:line
+High airways:G666:line
+High airways:G783:line
+High airways:L223:line
+High airways:L305:line
+High airways:L313:line
+High airways:L519:line
+High airways:L552:line
+High airways:L562:line
+High airways:L565:line
+High airways:L568:line
+High airways:M302:line
+High airways:M317:line
+High airways:M318:line
+High airways:M322:line
+High airways:M428:line
+High airways:M430:line
+High airways:M552:line
+High airways:M557:line
+High airways:M558:line
+High airways:M560:line
+High airways:M564:line
+High airways:M569:line
+High airways:M572:line
+High airways:M628:line
+High airways:M677:line
+High airways:M762:line
+High airways:N300:line
+High airways:N313:line
+High airways:N317:line
+High airways:N318:line
+High airways:N440:line
+High airways:N563:line
+High airways:N566:line
+High airways:N571:line
+High airways:N685:line
+High airways:P307:line
+High airways:P308:line
+High airways:P311:line
+High airways:P317:line
+High airways:P321:line
+High airways:P440:line
+High airways:P553:line
+High airways:P555:line
+High airways:P559:line
+High airways:P574:line
+High airways:P699:line
+High airways:P899:line
+High airways:Q215:line
+High airways:Q332:line
+High airways:Q415:line
+High airways:Q666:line
+High airways:R401:line
+High airways:R784:line
+High airways:T509:line
+High airways:T665:line
+High airways:T891:line
+High airways:UG783:line
+High airways:UL305:line
+High airways:UM318:line
+High airways:UM430:line
+High airways:UM440:line
+High airways:UM550:line
+High airways:UM628:line
+High airways:UN300:line
+High airways:UN318:line
+High airways:UN440:line
+High airways:UQ215:line
+High airways:UT975:line
+NDBs:ABM:frequency
+NDBs:ABM:name
+NDBs:ABM:symbol
+NDBs:BH:frequency
+NDBs:BH:name
+NDBs:BH:symbol
+NDBs:JD:frequency
+NDBs:JD:name
+NDBs:JD:symbol
+NDBs:RNZ:frequency
+NDBs:RNZ:name
+NDBs:RNZ:symbol
+NDBs:SIR:frequency
+NDBs:SIR:name
+NDBs:SIR:symbol
+NDBs:SYH:frequency
+NDBs:SYH:name
+NDBs:SYH:symbol
+VORs:ADV:frequency
+VORs:ADV:name
+VORs:ADV:symbol
+VORs:ALB:frequency
+VORs:ALB:name
+VORs:ALB:symbol
+VORs:ALN:frequency
+VORs:ALN:name
+VORs:ALN:symbol
+VORs:FJV:frequency
+VORs:FJV:name
+VORs:FJV:symbol
+VORs:MIN:frequency
+VORs:MIN:name
+VORs:MIN:symbol
+VORs:RAV:frequency
+VORs:RAV:name
+VORs:RAV:symbol
+VORs:SBT:frequency
+VORs:SBT:name
+VORs:SBT:symbol
+VORs:SIR:frequency
+VORs:SIR:name
+VORs:SIR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:UAE
+WINDOWAREA:22.285772:49.421660:27.151802:59.512897
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:18
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

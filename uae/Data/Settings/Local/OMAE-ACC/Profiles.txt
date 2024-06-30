@@ -1,0 +1,46 @@
+PROFILE
+PROFILE:AE_ALN_CTR:40:6
+ATIS2:"U.A.E Radar"
+ATIS3:Managing holding stack at ALNEV only
+ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:AE_IMP_CTR:40:6
+ATIS2:"U.A.E Radar"
+ATIS3:Managing holding stack at IMPED only
+ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:AE_ITL_CTR:40:6
+ATIS2:"U.A.E Radar"
+ATIS3:Managing holding stack at ITLAP only
+ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:AE_KIV_CTR:40:6
+ATIS2:"U.A.E Radar"
+ATIS3:Managing holding stack at KIVUS only
+ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:AE_ROV_CTR:40:6
+ATIS2:"U.A.E Radar"
+ATIS3:Managing holding stack at ROVOS only
+ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:AE_VUT_CTR:40:6
+ATIS2:"U.A.E Radar"
+ATIS3:Managing holding stack at VUTEB only
+ATIS4:Contact with callsign only! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAE_CTR:200:6
+ATIS2:"U.A.E Radar"
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAE_N_CTR:90:6
+ATIS2:"U.A.E Radar"
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAE_C_CTR:100:6
+ATIS2:"U.A.E Radar"
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAE_S_CTR:80:6
+ATIS2:"U.A.E Radar"
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OMAE
+PROFILE:OMAE_E_CTR:125:6
+ATIS2:"U.A.E Radar"
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OMAE
+END

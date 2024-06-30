@@ -1,0 +1,234 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:\OIIXvrc.sct
+SECTORTITLE:OIIXvrc.sct
+Airports:OI0A:name
+Airports:OI0B:name
+Airports:OI0C:name
+Airports:OI0D:name
+Airports:OI0E:name
+Airports:OI0F:name
+Airports:OI0G:name
+Airports:OI0H:name
+Airports:OI0I:name
+Airports:OI0J:name
+Airports:OI0K:name
+Airports:OI0L:name
+Airports:OI0M:name
+Airports:OI0N:name
+Airports:OI0O:name
+Airports:OI0P:name
+Airports:OI0Q:name
+Airports:OIAA:name
+Airports:OIAD:name
+Airports:OIAG:name
+Airports:OIAH:name
+Airports:OIAI:name
+Airports:OIAJ:name
+Airports:OIAM:name
+Airports:OIAW:name
+Airports:OIBA:name
+Airports:OIBB:name
+Airports:OIBH:name
+Airports:OIBJ:name
+Airports:OIBK:name
+Airports:OIBL:name
+Airports:OIBQ:name
+Airports:OIBS:name
+Airports:OIBV:name
+Airports:OICC:name
+Airports:OICD:name
+Airports:OICI:name
+Airports:OICK:name
+Airports:OICS:name
+Airports:OIFE:name
+Airports:OIFH:name
+Airports:OIFM:name
+Airports:OIFP:name
+Airports:OIFS:name
+Airports:OIFV:name
+Airports:OIGG:name
+Airports:OIHH:name
+Airports:OIHR:name
+Airports:OIHS:name
+Airports:OIID:name
+Airports:OIIE:name
+Airports:OIII:name
+Airports:OIIK:name
+Airports:OIIP:name
+Airports:OIIS:name
+Airports:OIKB:name
+Airports:OIKJ:name
+Airports:OIKK:name
+Airports:OIKM:name
+Airports:OIKP:name
+Airports:OIKQ:name
+Airports:OIKR:name
+Airports:OIKY:name
+Airports:OIMB:name
+Airports:OIMC:name
+Airports:OIMJ:name
+Airports:OIMM:name
+Airports:OIMN:name
+Airports:OIMS:name
+Airports:OIMT:name
+Airports:OIMX:name
+Airports:OINE:name
+Airports:OING:name
+Airports:OINJ:name
+Airports:OINN:name
+Airports:OINR:name
+Airports:OINZ:name
+Airports:OISD:name
+Airports:OISF:name
+Airports:OISJ:name
+Airports:OISL:name
+Airports:OISO:name
+Airports:OISR:name
+Airports:OISS:name
+Airports:OISY:name
+Airports:OITK:name
+Airports:OITL:name
+Airports:OITM:name
+Airports:OITP:name
+Airports:OITR:name
+Airports:OITT:name
+Airports:OITZ:name
+Airports:OIYY:name
+Airports:OIZB:name
+Airports:OIZC:name
+Airports:OIZH:name
+Airports:OIZI:name
+Airports:OIZJ:name
+Airports:OIZS:name
+Airports:Z14D:name
+Airports:Z14H:name
+Airports:Z14L:name
+Airports:Z14N:name
+Airports:Z14P:name
+Airports:Z14S:name
+ARTCC boundary:LTAA-ORBB:
+ARTCC boundary:OAKX-OPKR:
+ARTCC boundary:OAKX-UTAA:
+ARTCC boundary:OBBB-OKAC:
+ARTCC boundary:OBBB-OMAA:
+ARTCC boundary:OIIX:
+ARTCC boundary:OKAC-ORBB:
+ARTCC boundary:OMAA-OOMM:
+ARTCC boundary:SE1-2:
+ARTCC boundary:SE1-7:
+ARTCC boundary:SE2-7:
+ARTCC boundary:SE2_6:
+ARTCC boundary:SE3-4:
+ARTCC boundary:SE3_4:
+ARTCC boundary:SE4-6:
+ARTCC boundary:SE4_5:
+ARTCC boundary:SE5_6:
+ARTCC boundary:SE6-7:
+ARTCC boundary:UBBA-UDDD:
+ARTCC boundary:UBBA-UTAK:
+ARTCC boundary:UDDD-LTAA:
+ARTCC boundary:UTAK-UTAA:
+ARTCC high boundary:ABADAN:
+ARTCC high boundary:AD30:
+ARTCC high boundary:AW30:
+ARTCC high boundary:BBCTR:
+ARTCC high boundary:CC30:
+ARTCC high boundary:CS24:
+ARTCC high boundary:FMMVA:
+ARTCC high boundary:GG30:
+ARTCC high boundary:IIMVA:
+ARTCC high boundary:KB60:
+ARTCC high boundary:KK30:
+ARTCC high boundary:MMMVA:
+ARTCC high boundary:NG20:
+ARTCC high boundary:NN20:
+ARTCC high boundary:NR20:
+ARTCC high boundary:NZ30:
+ARTCC high boundary:OMD30:
+ARTCC high boundary:SSMVA:
+ARTCC high boundary:TL25:
+ARTCC high boundary:TR20:
+ARTCC high boundary:TT45:
+ARTCC high boundary:YY30:
+ARTCC high boundary:ZH30:
+ARTCC low boundary:FMMVA:
+ARTCC low boundary:IICTR:
+ARTCC low boundary:IITMA:
+ARTCC low boundary:KB30:
+ARTCC low boundary:SSMVA:
+Geo:GEO:
+Regions:noname:polygon
+VORs:ABD:symbol
+VORs:ANK:symbol
+VORs:ARB:symbol
+VORs:AWZ:symbol
+VORs:BND:symbol
+VORs:BRD:symbol
+VORs:BUZ:symbol
+VORs:CBH:symbol
+VORs:DAR:symbol
+VORs:DHN:symbol
+VORs:DNZ:symbol
+VORs:DZF:symbol
+VORs:GGN:symbol
+VORs:HAB:symbol
+VORs:HAM:symbol
+VORs:HSA:symbol
+VORs:IFN:symbol
+VORs:IKA:symbol
+VORs:ILM:symbol
+VORs:ISN:symbol
+VORs:ISR:symbol
+VORs:JSK:symbol
+VORs:KER:symbol
+VORs:KHG:symbol
+VORs:KHM:symbol
+VORs:KIH:symbol
+VORs:KIS:symbol
+VORs:KMS:symbol
+VORs:KNG:symbol
+VORs:KRD:symbol
+VORs:KSH:symbol
+VORs:LAM:symbol
+VORs:LAR:symbol
+VORs:LEN:symbol
+VORs:LVA:symbol
+VORs:MAH:symbol
+VORs:MAL:symbol
+VORs:MSD:symbol
+VORs:NSR:symbol
+VORs:OMD:symbol
+VORs:PIM:symbol
+VORs:RAF:symbol
+VORs:RST:symbol
+VORs:SBZ:symbol
+VORs:SHD:symbol
+VORs:SIR:symbol
+VORs:SNJ:symbol
+VORs:SRJ:symbol
+VORs:SYZ:symbol
+VORs:TBS:symbol
+VORs:TBZ:symbol
+VORs:THR:symbol
+VORs:TRN:symbol
+VORs:UMH:symbol
+VORs:YSJ:symbol
+VORs:YZD:symbol
+VORs:ZAH:symbol
+VORs:ZAJ:symbol
+VORs:ZDN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:17.456287:23.474018:45.352732:88.997664

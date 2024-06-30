@@ -1,0 +1,63 @@
+VOICE
+AG:Abu Dhabi Intl. Information:119.675:voice1.vatsim-germany.org:OMAA_ATIS
+AG:Abu Dhabi Delivery:125.100:voice1.vatsim-germany.org:OMAA_DEL
+AG:Abu Dhabi Ground:123.970:voice1.vatsim-germany.org:OMAA_GND
+AG:Abu Dhabi Ground (North Sector):121.950:voice1.vatsim-germany.org:OMAA_N_GND
+AG:Abu Dhabi Tower:119.200:voice1.vatsim-germany.org:OMAA_TWR
+AG:Abu Dhabi Tower (North Sector):118.675:voice1.vatsim-germany.org:OMAA_N_TWR
+AG:Abu Dhabi Tower (South Sector):119.675:voice1.vatsim-germany.org:OMAA_S_TWR
+AG:Abu Dhabi Arrivals:135.350:voice1.vatsim-germany.org:OMAA_APP
+AG:Abu Dhabi Arrivals (East Sector):132.675:voice1.vatsim-germany.org:OMAA_E_APP
+AG:Abu Dhabi Arrivals (West Sector):128.100:voice1.vatsim-germany.org:OMAA_W_APP
+AG:Abu Dhabi Arrivals (Central Sector):124.400:voice1.vatsim-germany.org:OMAA_C_APP
+AG:UAE Radar (ALNEV Holding Stack):120.250:voice1.vatsim-germany.org:ae_aln_ctr
+AG:UAE Radar (IMPED Holding Stack):126.025:voice1.vatsim-germany.org:ae_imp_ctr
+AG:UAE Radar (ITLAP Holding Stack):118.925:voice1.vatsim-germany.org:ae_itl_ctr
+AG:UAE Radar (KIVUS Holding Stack):124.625:voice1.vatsim-germany.org:ae_kiv_ctr
+AG:UAE Radar (ROVOS Holding Stack):135.350:voice1.vatsim-germany.org:ae_rov_ctr
+AG:UAE Radar (VUTEB Holding Stack):135.350:voice1.vatsim-germany.org:ae_vut_ctr
+AG:UAE Radar (Bandbox):119.300:voice1.vatsim-germany.org:OMAE_CTR
+AG:UAE Radar (North):128.250:voice1.vatsim-germany.org:OMAE_N_CTR
+AG:UAE Radar (Central):120.900:voice1.vatsim-germany.org:OMAE_C_CTR
+AG:UAE Radar (South):132.150:voice1.vatsim-germany.org:OMAE_S_CTR
+AG:UAE Radar (East):125.325:voice1.vatsim-germany.org:OMAE_E_CTR
+AG:Dubai Intl. Information:131.700:voice1.vatsim-germany.org:OMDB_ATIS
+AG:Abu Dhabi Intl. Information:119.675:voice1.vatsim-germany.org:OMAA_ATIS
+AG:Sharjah Intl. Information:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
+AG:Ras Al Khaimah Information:126.075:voice1.vatsim-germany.org:OMRK_ATIS
+AG:Fujairah Information:118.000:voice1.vatsim-germany.org:OMFJ_ATIS
+AG:Al Maktoum Information:126.475:voice1.vatsim-germany.org:OMDW_ATIS
+AG:Al Ain Information:126.050:voice1.vatsim-germany.org:OMAL_ATIS
+AG:Al Ain Ground:129.150:voice1.vatsim-germany.org:OMAL_GND
+AG:Al Ain Tower:119.850:voice1.vatsim-germany.org:OMAL_TWR
+AG:Al Ain Approach:132.670:voice1.vatsim-germany.org:OMAL_APP
+AG:Dubai Intl. Information:131.700:voice1.vatsim-germany.org:omdb_atis
+AG:Dubai Delivery:120.350:voice1.vatsim-germany.org:OMDB_DEL
+AG:Dubai Ground:118.350:voice1.vatsim-germany.org:OMDB_GND
+AG:Dubai Ground (South):118.350:voice1.vatsim-germany.org:OMDB_S_GND
+AG:Dubai Ground (North):121.650:voice1.vatsim-germany.org:OMDB_N_GND
+AG:Dubai Tower:118.750:voice1.vatsim-germany.org:OMDB_TWR
+AG:Dubai Departures:126.200:voice1.vatsim-germany.org:omdb_dep
+AG:Dubai Departures (South Sector):121.025:voice1.vatsim-germany.org:OMDB_S_DEP
+AG:Dubai Departures (North Sector):126.200:voice1.vatsim-germany.org:OMDB_N_DEP
+AG:Dubai Arrivals:124.450:voice1.vatsim-germany.org:omdb_app
+AG:Dubai Arrivals (North Sector):124.450:voice1.vatsim-germany.org:OMDB_N_APP
+AG:Dubai Arrivals (South Sector):124.900:voice1.vatsim-germany.org:OMDB_S_APP
+AG:Dubai Director:127.900:voice1.vatsim-germany.org:OMDB_F_APP
+AG:Al-Minhad Approach:122.500:voice1.vatsim-germany.org:OMDM_APP
+AG:Al-Maktoum Radar:124.025:voice1.vatsim-germany.org:OMDW_APP
+AG:Al-Maktoum Tower:118.625:voice1.vatsim-germany.org:OMDW_TWR
+AG:Al-Maktoum Ground:118.375:voice1.vatsim-germany.org:OMDW_GND
+AG:Al-Maktoum Automatic Terminal Information Service:126.475:voice1.vatsim-germany.org:OMDW_ATIS
+AG:Fujairah Ground:119.450:voice1.vatsim-germany.org:OMFJ_GND
+AG:Fujairah Intl. Information:118.000:voice1.vatsim-germany.org:OMFJ_ATIS
+AG:Fujairah Tower:124.600:voice1.vatsim-germany.org:OMFJ_TWR
+AG:Fujairah Approach:129.400:voice1.vatsim-germany.org:OMFJ_APP
+AG:Ras Al Khaimah Ground:121.600:voice1.vatsim-germany.org:OMRK_GND
+AG:Ras Al Khaimah Tower:118.250:voice1.vatsim-germany.org:OMRK_TWR
+AG:Ras Al Khaimah Approach:124.000:voice1.vatsim-germany.org:OMRK_APP
+AG:Ras Al Khaimah Information:126.075:voice1.vatsim-germany.org:OMRK_ATIS
+AG:Sharjah Intl. Information:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
+AG:Sharjah Tower:118.600:voice1.vatsim-germany.org:OMSJ_TWR
+AG:Sharjah Ground:121.875:voice1.vatsim-germany.org:OMSJ_GND
+END

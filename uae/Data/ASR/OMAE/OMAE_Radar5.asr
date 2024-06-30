@@ -1,0 +1,94 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Jeddah ACC:
+ARTCC boundary:Muscat ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:United Arab Emirates ACC:
+ARTCC high boundary:UAE ACC Central:
+ARTCC high boundary:UAE ACC Mike:
+ARTCC high boundary:UAE ACC North:
+ARTCC high boundary:UAE ACC South:
+ARTCC low boundary:Abu Dhabi CTA Central:
+ARTCC low boundary:Abu Dhabi CTA East:
+ARTCC low boundary:Abu Dhabi CTA North:
+ARTCC low boundary:Abu Dhabi CTA West:
+ARTCC low boundary:Dubai CTA Part 1:
+ARTCC low boundary:Dubai CTA Part 10:
+ARTCC low boundary:Dubai CTA Part 11:
+ARTCC low boundary:Dubai CTA Part 12:
+ARTCC low boundary:Dubai CTA Part 2:
+ARTCC low boundary:Dubai CTA Part 3:
+ARTCC low boundary:Dubai CTA Part 4:
+ARTCC low boundary:Dubai CTA Part 5:
+ARTCC low boundary:Dubai CTA Part 6:
+ARTCC low boundary:Dubai CTA Part 7:
+ARTCC low boundary:Dubai CTA Part 8:
+ARTCC low boundary:Dubai CTA Part 9:
+ARTCC low boundary:Fujairah CTA 1:
+ARTCC low boundary:Fujairah CTA 2:
+ARTCC low boundary:Ras Al-Khaimah CTA:
+ARTCC low boundary:Sharjah CTA:
+Free Text:Prohibited & Restricted Areas\P/0-15:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:SMA Abu Dhabi\T18:freetext
+Free Text:SMA Abu Dhabi\T20:freetext
+Free Text:SMA Abu Dhabi\T23:freetext
+Free Text:SMA Abu Dhabi\T30:freetext
+Free Text:SMA Abu Dhabi\T30:freetext
+Free Text:SMA Dubai\T15:freetext
+Free Text:SMA Dubai\T17:freetext
+Free Text:SMA Dubai\T20:freetext
+Free Text:SMA Dubai\T20:freetext
+Free Text:SMA Dubai\T21:freetext
+Free Text:SMA Dubai\T21:freetext
+Free Text:SMA Dubai\T23:freetext
+Free Text:SMA Dubai\T24:freetext
+Free Text:SMA Dubai\T25:freetext
+Free Text:SMA Dubai\T28:freetext
+Free Text:SMA Dubai\T40:freetext
+Free Text:SMA Dubai\T40:freetext
+Free Text:SMA Dubai\T50:freetext
+Free Text:SMA Dubai\T60:freetext
+Free Text:SMA Ras Al Khaimah\T15:freetext
+Free Text:SMA Ras Al Khaimah\T20:freetext
+Free Text:SMA Ras Al Khaimah\T21:freetext
+Free Text:SMA Ras Al Khaimah\T25:freetext
+Free Text:SMA Ras Al Khaimah\T30:freetext
+Free Text:SMA Ras Al Khaimah\T40:freetext
+Free Text:SMA Ras Al Khaimah\T45:freetext
+Free Text:SMA Ras Al Khaimah\T55:freetext
+Free Text:SMA Ras Al Khaimah\T70:freetext
+Geo:Coastline:
+Geo:OMFJ Taxiways:
+SHOWC:1
+SHOWSB:1
+BELOW:800
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:UAE
+WINDOWAREA:22.102880:49.452137:26.968910:59.543374
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:18
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

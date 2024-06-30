@@ -1,0 +1,35 @@
+Settings	sector	\GULF.sct
+Settings	Settingsfile	\GULF-settings.txt
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
+Settings	AselKey	1769472
+Settings	FreqKey	2818048
+Voice	PPPT	18677760
+Settings	alias	\GULF-settings.txt
+Settings	AtisFolder	\GULF-settings.txt
+Voice	SPPT	1900544
+Settings	SettingsfileSYMBOLOGY	\GULF-settings.txt
+Settings	SettingsfileVOICE	\GULF-settings.txt
+Settings	SettingsfilePROFILE	\GULF-login.txt
+Settings	SettingsfileTAGS	\GULF-settings.txt
+Settings	SettingsfileSIL	\GULF-settings.txt
+Settings	SettingsfileSEL	\GULF-settings.txt
+Settings	SettingsfileDEP	\GULF-settings.txt
+Settings	SettingsfilePLUGINS	\GULF-settings.txt
+Settings	SettingsfileSCREEN	\GULF-settings.txt
+Voice	Grammar	\..\Settings\ESGrammar.txt
+Settings	SectorFileProviderDescriptor	\..\SectorFileProviderDescriptor.txt
+RecentFiles	Recent1	\GULF.asr
+Settings	SettingsfileARR	\GULF-settings.txt
+Settings	SettingsfileFP	\GULF-settings.txt
+Settings	SettingsfileCONFLICT	\GULF-settings.txt
+LastSession	connecttype	0
+LastSession	facility	1
+LastSession	rating	4
+LastSession	range	1500
+LastSession	callsign	GULF_FSS
+LastSession	atis2	Gulf Control - ATC service at FL150 and above if local CTR not online
+LastSession	atis3	ATC for HECC, OJAC, ORBB, OSTT, OLBB, OYSC, OMAE, OOMM, OIIX, OEJD, OBBB and OKAC
+LastSession	atis4	Report Position, Level and Aircraft type on initial contact. Approach services provided on a workload basis for MAJOR airports

@@ -1,0 +1,75 @@
+Settings	SettingsfileSYMBOLOGY	\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\AFRS\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\AFRS\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\Settings\Tags.txt
+Settings	SettingsfileSIL	\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\Settings\DepartureList.txt
+Settings	SettingsfileARR	\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\AFRS\Settings\Plugins.txt
+Settings	Settingsfile	\AFRS\Settings\General.txt
+Settings	SettingsfileSCREEN	\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\AFRS\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\Settings\PilotingList.txt
+Settings	alias	\Settings\alias.txt
+Settings	airlines	\AFRS\ICAO\ICAO_Airlines.txt
+Settings	airports	\AFRS\ICAO\ICAO_Airports.txt
+Settings	aircraft	\AFRS\ICAO\ICAO_Aircraft.txt
+Settings	airways	\AFRS\NavData\airway.txt
+Settings	airportcoords	\AFRS\NavData\icao.txt
+LastSession	atis2	$radioname : PCD Provisional Clearence ONLY. Contact FSS passing FL145 for final clearance
+LastSession	atis3	ATC only above FL145 if local CTR is offline, visit us on https://vatme.net/division/SAF
+LastSession	atis4	UIR ATC for FACA FAJA FBGR, FLFI, FNAN FQBE FVHF FWLL FYWH HKNA HTDC HUEC
+RecentFiles	Recent1	\AFRS\ASR\VOR.asr
+ASRFastKeys	1	\AFRS\ASR\1_FSS.asr
+Plugins	Plugin0	\AFRS\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\AFRS\Plugins\RDFPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Settings	sector	\AFRS-Package_20191117001209-191201-0001.sct
+TeamSpeakVccs	TsVccsMiniControlX	411
+TeamSpeakVccs	TsVccsMiniControlY	434
+LastSession	connecttype	0
+LastSession	callsign	AFRS_FSS
+LastSession	realname	Nelis Coetzee
+LastSession	certificate	1312742
+LastSession	password	r8xQ375f
+LastSession	facility	1
+LastSession	rating	6
+LastSession	server	UK-1
+LastSession	tovatsim	1
+LastSession	range	1500
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent2	\AFRS\ASR\AIRWAYS.asr
+RecentFiles	Recent3	\AFRS\ASR\FIXES.asr
+RecentFiles	Recent4	\AFRS\ASR\1_FSS.asr
+Plugins	Plugin2	\vSMR_1.4.0\vSMR.dll
+Plugins	Plugin2Display0	SMR radar display
+Sounds	Sound0	C:\EuroScope\Sounds\handoff_request.wav
+Sounds	Sound1	C:\EuroScope\Sounds\handoff_accept.wav
+Sounds	Sound2	C:\EuroScope\Sounds\conflict_alert.wav
+Sounds	Sound3	C:\EuroScope\Sounds\radio_message.wav
+Sounds	Sound4	\Sound Files\chatmessage.wav
+Sounds	Sound5	C:\EuroScope\Sounds\atc_message.wav
+Sounds	Sound6	C:\EuroScope\Sounds\broadcast_message.wav
+Sounds	Sound7	C:\EuroScope\Sounds\landline_request.wav
+Sounds	Sound8	C:\EuroScope\Sounds\supervisor_message.wav
+Sounds	Sound9	C:\EuroScope\Sounds\connected.wav
+Sounds	Sound10	C:\EuroScope\Sounds\disconnected.wav
+Sounds	Sound11	C:\EuroScope\Sounds\ongoing_request.wav
+Sounds	Sound12	C:\EuroScope\Sounds\ongoing_accepted.wav
+Sounds	Sound13	C:\EuroScope\Sounds\ongoing_refused.wav
+Sounds	Sound14	C:\EuroScope\Sounds\ongoing_manual.wav
+Sounds	Sound15	C:\EuroScope\Sounds\new_atis.wav
+Sounds	Sound16	C:\EuroScope\Sounds\handoff_refused.wav
+Sounds	Sound17	C:\EuroScope\Sounds\pointout.wav
+Sounds	Sound18	C:\EuroScope\Sounds\startup.wav
+Sounds	OutputDevice	Speakers (Sennheiser USB Headse
